@@ -2,6 +2,10 @@ body {
 	font-size: 20px;
 }
 
-.Dice {
+.dice {
 	display: none;
+}
+
+.nodice {
+	color: red;
 }
