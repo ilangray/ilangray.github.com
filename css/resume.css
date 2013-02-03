@@ -9,12 +9,34 @@ body {
 
 #myname {
 	font-size: 100%;
+	font-family: 'Domine', sans-serif;
 }
 
 .sectionname {
-	font-size: 140%;
+	font-size: 120%;
 }
 
 .itemname {
 	font-size: 110%;
+}
+
+.itemnamedetail {
+	font-style: italic;
+	font-weight: normal;
+	font-size: 90%;
+}
+
+.itemdetailheader {
+	font-weight: bold;
+	font-size: 95%;
+}
+
+.itemdetail {
+	font-size: 90%;
+	font-weight: normal;
+}
+
+.itemdetailtail {
+	font-style: italic;
+	font-size: 90%
 }
