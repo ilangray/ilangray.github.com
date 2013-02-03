@@ -11,7 +11,7 @@
 	margin-top: 40px;
 	width: 100%;
 	text-align: center;
-	margin-top: -0.25em;
+	margin-top: -0.1em;
 }
 
 .sectionname {
@@ -27,8 +27,6 @@
 	font-size: 100%;
 }
 
-
-/* Indent a little less on handheld */
 .item {
 	margin-left: -1em;
 }
