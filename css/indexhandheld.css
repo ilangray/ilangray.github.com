@@ -1,6 +1,6 @@
 /*
 body {
-	width: 33%;
+	width: 30%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -23,8 +23,3 @@ body {
 
 div a:visited { text-decoration: none; }
 div a:link { text-decoration: none; }*/
-
-
-body {
-	width: 30%;
-}
