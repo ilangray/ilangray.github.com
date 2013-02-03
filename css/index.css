@@ -1,6 +1,11 @@
 
 body {
-	
+	vertical-align: middle;
+
+	width: 33%;
+
+	margin-left: auto;
+	margin-right: auto;
 }
 
 table {
@@ -8,8 +13,10 @@ table {
 }
 
 .link {
+	line-height: 550%;
+
 	background-color: #FDF6E3;
-	font-size: 200%;
+	font-size: 500%;
 	color: #000000;
 
 	border-left-width: thick;
