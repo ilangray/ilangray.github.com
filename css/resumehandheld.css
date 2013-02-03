@@ -1,6 +1,25 @@
-.sectionname {
-	font-size: 140%;
+
+
+.resumeheaderbars {
+	display: none;
+}
+
+.sectionheader {
+	height: 2px;
+	background-color: #969696; /* CHANGE THIS BACKGROUND COLOR */
+	margin-bottom: 20px;
+	margin-top: 40px;
+	width: 100%;
 	text-align: center;
+}
+
+.sectionname {
+	display: inline;
+	font-weight: bold;
+	font-size: 140%;
+	line-height: 3px;
+	background-color: #FDF6E3;
+	margin: auto;
 }
 
 .itemname {

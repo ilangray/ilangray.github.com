@@ -12,6 +12,7 @@ body {
 #myname {
 	font-size: 120%;
 	font-family: 'Domine', sans-serif;
+	text-transform: uppercase;
 }
 
 .sectionname {
