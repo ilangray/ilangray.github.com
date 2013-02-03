@@ -3,6 +3,14 @@ body {
 	font-weight: 300;
 }
 
+#resumeheader {
+
+}
+
+#myname {
+	font-size: 100%;
+}
+
 .sectionname {
 	font-size: 140%;
 }
