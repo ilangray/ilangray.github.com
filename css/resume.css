@@ -2,6 +2,7 @@ body {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-weight: 300;
 
+	
 	background-color: #FDF6E3;
 }
 
@@ -15,8 +16,28 @@ body {
 	text-transform: uppercase;
 }
 
+.section {
+	width: 960px;
+}
+
+.sectionheader {
+	height: 2px;
+	background-color: #969696; /* CHANGE THIS BACKGROUND COLOR */
+	margin-bottom: 20px;
+	margin-top: 40px;
+	width: 100%;
+	text-align: center;
+	margin-top: -0.1em;
+}
+
 .sectionname {
+	display: inline;
+	font-weight: bold;
 	font-size: 120%;
+	line-height: 3px;
+	background-color: #FDF6E3;
+	margin: auto;
+	position: relative; top: -0.3em;
 }
 
 .itemname {
