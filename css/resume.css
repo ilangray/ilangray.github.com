@@ -17,6 +17,12 @@ body {
 	text-transform: uppercase;
 }
 
+#myemail {
+	font-size: 30%;
+	text-align: right;
+	text-transform: none;
+}
+
 .section {
 	
 }
