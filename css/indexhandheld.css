@@ -1,25 +1,4 @@
-/*
-body {
-	width: 30%;
-	margin-left: auto;
-	margin-right: auto;
+
+p {
+	font-size: 250%;
 }
-
-.link {
-	background-color: #FDF6E3;
-	font-size: 400%;
-	color: #000000;
-
-	border-left-width: thick;
-	border-left-style: solid;
-	border-left-color: #FDF6E3;
-	border-right-width: thick;
-	border-right-style: solid;
-	border-right-color: #FDF6E3;
-
-	outline:1px solid black;
-	outline-offset:3px;
-}
-
-div a:visited { text-decoration: none; }
-div a:link { text-decoration: none; }*/
