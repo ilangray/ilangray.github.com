@@ -1,17 +1,30 @@
 
 body {
 	vertical-align: middle;
+	margin: auto;
+	max-width: 960px;
+	padding: 10px;
+}
+
+p {
+	text-align: center;
+}
+
+img {
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 33%;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .link {
-	line-height: 550%;
-
 	background-color: #FDF6E3;
 	font-size: 500%;
-	color: #000000;
+	color: black;
 
 	border-left-width: thick;
 	border-left-style: solid;
@@ -21,7 +34,7 @@ body {
 	border-right-color: #FDF6E3;
 
 	outline:1px solid black;
-	outline-offset:3px;
+	position: relative; top: 5px;
 }
 
 div a:visited { text-decoration: none; }
